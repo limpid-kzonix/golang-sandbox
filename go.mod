@@ -1,6 +1,6 @@
 module github.com/limpid-kzonix/golang-sandbox/main
 
-go 1.21.1
+go 1.22.0
 
 require (
 	github.com/gofiber/fiber/v2 v2.49.2

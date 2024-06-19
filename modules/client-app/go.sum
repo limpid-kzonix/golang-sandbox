@@ -1,0 +1,4 @@
+github.com/limpid-kzonix/golang-sandbox/modules/cli-app v0.0.0-20240619151133-4b8baa6bce67 h1:2WgiQUwbYWmJzysrZvK89YAMWmgg/Lsi9yRnQ8QLfmU=
+github.com/limpid-kzonix/golang-sandbox/modules/cli-app v0.0.0-20240619151133-4b8baa6bce67/go.mod h1:Io7Lcti1TISLCLxY7MvhLAJ3TNCTsQb0a7jZDjUNquE=
+github.com/limpid-kzonix/golang-sandbox/modules/server-app v0.0.0-20240619144915-46c8b2266676 h1:IXPrlFGQpKuvgDUZWVI1TXraW+ycXMUmVSzHHmeSUGA=
+github.com/limpid-kzonix/golang-sandbox/modules/server-app v0.0.0-20240619144915-46c8b2266676/go.mod h1:pw/KyJ9SJ1Jm3qplcLq127pb+r7fGgsw2pyc+5lDfao=

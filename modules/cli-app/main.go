@@ -3,10 +3,10 @@ package clientapp
 import (
 	"fmt"
 
-	cli "github.com/limpid-kzonix/golang-sandbox/modules/cli-app"
+	server "github.com/limpid-kzonix/golang-sandbox/modules/server-app"
 )
 
 func Cli() {
 	fmt.Println("CLI")
-	cli.Server()
+	server.Server()
 }

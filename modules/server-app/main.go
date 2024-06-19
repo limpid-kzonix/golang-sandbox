@@ -1,3 +1,12 @@
 package serverapp
 
-func Server() {}
+import (
+	"fmt"
+
+	client "github.com/limpid-kzonix/golang-sandbox/modules/client-app"
+)
+
+func Server() {
+	fmt.Println("CLI")
+	client.Client()
+}

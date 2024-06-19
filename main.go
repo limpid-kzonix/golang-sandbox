@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	katas "github.com/limpid-kzonix/golang-sandbox/main/katas/sub"
-	server "github.com/limpid-kzonix/golang-sandbox/modules/server-app"
+	cli "github.com/limpid-kzonix/golang-sandbox/modules/cli-app"
 )
 
 func main() {
@@ -17,7 +17,7 @@ func main() {
 		false, false, true, true,
 	}
 
-	server.Server()
+	cli.Cli()
 	res := katas.CountSheeps(arr1)
 	s := Test()
 	str := fmt.Sprintf("Count = %d, %d", res, s)

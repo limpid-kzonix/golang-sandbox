@@ -10,6 +10,8 @@ github.com/klauspost/compress v1.16.7 h1:2mk3MPGNzKyxErAw8YaohYh69+pa4sIQSC0fPGC
 github.com/klauspost/compress v1.16.7/go.mod h1:ntbaceVETuRiXiv4DpjP66DpAtAGkEQskQzEyD//IeE=
 github.com/limpid-kzonix/golang-sandbox/modules/cli-app v0.0.0-20240619151546-539d741ce51d h1:NmBUYGDR3bfpDcTqEijVCf759v75oJPON9YsIo5HPY4=
 github.com/limpid-kzonix/golang-sandbox/modules/cli-app v0.0.0-20240619151546-539d741ce51d/go.mod h1:Io7Lcti1TISLCLxY7MvhLAJ3TNCTsQb0a7jZDjUNquE=
+github.com/limpid-kzonix/golang-sandbox/modules/cli-app v0.0.0-20240619161301-7f9c16c87c14 h1:8DcuC4M6BEt83yKuFsjNosHXnk1jiGW5/gE4OY7gmcE=
+github.com/limpid-kzonix/golang-sandbox/modules/cli-app v0.0.0-20240619161301-7f9c16c87c14/go.mod h1:Io7Lcti1TISLCLxY7MvhLAJ3TNCTsQb0a7jZDjUNquE=
 github.com/limpid-kzonix/golang-sandbox/modules/client-app v0.0.0-20240619142428-e919e3d16076 h1:464bd8taAGT8rlU4z42hFoC5F7/EHttvKoVmu/85GjE=
 github.com/limpid-kzonix/golang-sandbox/modules/client-app v0.0.0-20240619142428-e919e3d16076/go.mod h1:PvDzYROYp7PRfMxPhkrh1duVsZZA5hSg2u0vXGzKo4E=
 github.com/limpid-kzonix/golang-sandbox/modules/server-app v0.0.0-20240619144915-46c8b2266676 h1:IXPrlFGQpKuvgDUZWVI1TXraW+ycXMUmVSzHHmeSUGA=

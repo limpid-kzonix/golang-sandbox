@@ -7,6 +7,6 @@ import (
 )
 
 func Server() {
-	fmt.Println("CLI")
+	fmt.Println("Server")
 	client.Client()
 }

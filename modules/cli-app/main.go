@@ -1,4 +1,4 @@
-package clientapp
+package cliapp
 
 import (
 	"fmt"

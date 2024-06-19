@@ -4,7 +4,7 @@ go 1.21.11
 
 require (
 	github.com/gofiber/fiber/v2 v2.49.2
-	github.com/limpid-kzonix/golang-sandbox/modules/cli-app v0.0.0-20240619151546-539d741ce51d
+	github.com/limpid-kzonix/golang-sandbox/modules/cli-app v0.0.0-20240619161301-7f9c16c87c14
 	go.uber.org/zap v1.26.0
 )
 

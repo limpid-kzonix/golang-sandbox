@@ -3,7 +3,7 @@ package clientapp
 import (
 	"fmt"
 
-	cli "github.com/limpid-kzonix/golang-sandbox/modules/cli-app"
+	cli "github.com/limpid-kzonix/golang-sandbox/cli-app"
 )
 
 func Client() {

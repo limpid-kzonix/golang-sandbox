@@ -1,6 +1,6 @@
 module github.com/limpid-kzonix/golang-sandbox/main
 
-go 1.21.1
+go 1.21.11
 
 require (
 	github.com/gofiber/fiber/v2 v2.49.2
@@ -11,6 +11,8 @@ require (
 	github.com/andybalholm/brotli v1.0.5 // indirect
 	github.com/google/uuid v1.3.1 // indirect
 	github.com/klauspost/compress v1.16.7 // indirect
+	github.com/limpid-kzonix/golang-sandbox/modules/client-app v0.0.0-20240619142428-e919e3d16076 // indirect
+	github.com/limpid-kzonix/golang-sandbox/modules/server-app v0.0.0-20240619142428-e919e3d16076 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.19 // indirect
 	github.com/mattn/go-runewidth v0.0.15 // indirect

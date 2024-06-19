@@ -1,1 +1,3 @@
 package clientapp
+
+func client() {}
